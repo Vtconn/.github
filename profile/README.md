@@ -27,7 +27,7 @@ Nosso objetivo é:
 
 Entre em contato conosco:
 
-- 🌐 [https://vtconn.com.br/]((https://vtconn.com.br/))
+- 🌐 [https://vtconn.com.br/](https://vtconn.com.br/)
 - 📧 vtconn@vtconn.com.br
 
 ---
