@@ -27,7 +27,7 @@ Nosso objetivo é:
 
 Entre em contato conosco:
 
-- 🌐 [https://connit.com.br/](https://connit.com.br/)
+- 🌐 [https://vtconn.com.br/]((https://vtconn.com.br/))
 - 📧 vtconn@vtconn.com.br
 
 ---
@@ -37,4 +37,4 @@ Entre em contato conosco:
 Contribuições são bem-vindas! Consulte o [CONTRIBUTING.md](./CONTRIBUTING.md) para saber como começar.
 
 --- -->
-© 2025 VTCONN — Todos os direitos reservados.
+© 2026 VTCONN — Todos os direitos reservados.
